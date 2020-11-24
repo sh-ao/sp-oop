@@ -1,3 +1,9 @@
+/**
+ * User will require to enter the sub-total and gratuity,
+ * and the application  will return total and the gratuity rate.
+ * 
+ */
+
 import java.util.Scanner;
 
 public class P2Q5 {

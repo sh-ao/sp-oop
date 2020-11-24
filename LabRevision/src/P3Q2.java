@@ -1,3 +1,8 @@
+/**
+ * This application will return the grades based on the raw score.
+ * 
+ */
+
 import java.util.Scanner;
 
 public class P3Q2 {
@@ -7,7 +12,7 @@ public class P3Q2 {
         int score = sc.nextInt();
         
         String grade = getGrade(score);
-        System.out.println("Your garde is " + grade);
+        System.out.println("Your grade is " + grade);
     }
     
     public static String getGrade(int score) {

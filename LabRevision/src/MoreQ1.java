@@ -1,3 +1,9 @@
+/**
+ * User will need to enter 3 values and it will return true 
+ * if the sum of the first and second value equals to third value.
+ *
+ */
+
 import java.util.Scanner;
 
 public class MoreQ1 {

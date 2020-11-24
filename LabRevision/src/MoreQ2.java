@@ -1,3 +1,7 @@
+/**
+ * This will get the highest and lowest values in a given array.
+ *
+ */
 
 public class MoreQ2 {
 

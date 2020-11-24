@@ -1,3 +1,9 @@
+/**
+ * User will return to enter 3 values and it will print out the
+ * values in asc order. (smallest to biggest)
+ * 
+ */
+
 import java.util.Scanner;
 
 public class P3Q3 {
@@ -34,6 +40,7 @@ public class P3Q3 {
       
       System.out.println(smallest + " " + middle + " " + biggest);
 
+// Another example using if..else
 //        int smallest = 0;
 //        
 //        if(firstValue < secondValue && firstValue < thirdValue) {
